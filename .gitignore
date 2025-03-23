@@ -8,3 +8,6 @@ node_modules
 cdk.out
 response.json
 .DS_Store
+cdk.context.json
+package-lock.json
+.vscode/settings.json
